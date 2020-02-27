@@ -1,4 +1,4 @@
-#Update user information 
+# Update user information 
 
 ------------
 Allow the Authenticated User to update their details.
@@ -72,4 +72,4 @@ Endpoint will ignore irrelevant and read-only data such as parameters that don't
 
 ------------
 
-###End
+### End
