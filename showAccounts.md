@@ -20,7 +20,7 @@ Condition : User can not see any Accounts.
 
 Code : 200 OK
 
-Content : {[]}
+Content : {[ ]}
 
 OR
 Condition : User can see one or more Accounts.
