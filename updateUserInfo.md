@@ -11,6 +11,7 @@ Auth required : YES
 
 Permissions required : None
 
+```json
 Data constraints
 
 {
@@ -67,6 +68,7 @@ Content example :
     ]
 }
 
+```
 ### Notes
 Endpoint will ignore irrelevant and read-only data such as parameters that don't exist, or fields that are not editable like id or email. Similar to the GET endpoint for the User, if the User does not have a UserInfo instance, then one will be created for them.
 

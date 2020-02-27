@@ -21,6 +21,7 @@ Admin AA
 Viewer VV
 Data: {}
 
+```json
 Success Response
 Condition : If Account exists and Authorized User has required permissions.
 
@@ -49,6 +50,7 @@ Code : 403 FORBIDDEN
 Content :
 
 {"detail": "You do not have permission to perform this action."}
+```
 
 ### Notes
 

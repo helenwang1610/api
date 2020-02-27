@@ -11,6 +11,7 @@ Method : GET
 Auth required : YES
 
 Permissions required : None
+```json
 
 Data constraints : {}
 
@@ -58,6 +59,7 @@ Content : In this example, the User can see three Accounts as AccountAdmin AA, V
     }
 ]
 
+```
 ------------
 
 ### End

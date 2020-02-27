@@ -31,9 +31,9 @@ Each endpoint manipulates or displays information about the user whose token is 
 Endpoints for viewing and manipulating the Accounts that the Authenticated User has permissions to access.
 - [Show Accessible Accounts](https://github.com/helenwang1610/api/blob/master/showAccounts.md "Show Accessible Accounts"): GET /api/accounts/
 - [Create an Account](https://github.com/helenwang1610/api/blob/master/createAccount.md "Create an Account"): POST /api/accounts/
-- [Show An Account]](https://github.com/helenwang1610/api/blob/master/viewSingleAccount.md "View a single account information"): GET /api/accounts/:sg/
-- [Update An Account]](https://github.com/helenwang1610/api/blob/master/updateAccount.md "Update an Account"): PUT /api/accounts/:sg/
-- [Delete An Account]](https://github.com/helenwang1610/api/blob/master/deleteAccount.md "delete an Account"): DELETE /api/accounts/:sg/
+- [Show An Account](https://github.com/helenwang1610/api/blob/master/viewSingleAccount.md "View a single account information"): GET /api/accounts/:sg/
+- [Update An Account](https://github.com/helenwang1610/api/blob/master/updateAccount.md "Update an Account"): PUT /api/accounts/:sg/
+- [Delete An Account](https://github.com/helenwang1610/api/blob/master/deleteAccount.md "delete an Account"): DELETE /api/accounts/:sg/
 
 
 ## End

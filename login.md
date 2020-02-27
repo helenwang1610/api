@@ -10,6 +10,7 @@ Method : POST
 
 Auth required : NO
 
+```json
 Data constraints
 
 {
@@ -43,6 +44,7 @@ Content :
     ]
 }
 
+```
 ------------
 
 ### End

@@ -12,6 +12,7 @@ Auth required : YES
 
 Permissions required : None
 
+```json
 Data constraints
 
 Provide name of Account to be created.
@@ -57,6 +58,7 @@ Content example
         "This field is required."
     ]
 }
+```
 
 ------------
 

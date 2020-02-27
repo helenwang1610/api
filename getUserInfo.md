@@ -12,6 +12,7 @@ Auth required : YES
 
 Permissions required : None
 
+```json
 Success Response
 Code : 200 OK
 
@@ -33,7 +34,9 @@ For a user with ID 321 on the local database but no details have been set yet.
     "last_name": "",
     "email": ""
 }
-Notes
+
+```
+### Notes
 If the User does not have a UserInfo instance when requested then one will be created for them.
 
 

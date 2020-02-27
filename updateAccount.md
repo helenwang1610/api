@@ -12,6 +12,7 @@ Auth required : YES
 
 Permissions required : User is Account Owner
 
+```json
 Data constraints
 
 {
@@ -72,6 +73,7 @@ Content example
     "enterprise": false,
     "url": "http://testserver/api/accounts/123/"
 }
+```
 
 ------------
 
