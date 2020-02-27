@@ -1,6 +1,6 @@
 # RESTful Web API Doc
 
-This RESTful Web API is about a website users and accounts management [referring to Django REST framework](https://www.django-rest-framework.org/ "Django REST framework"). It is documented on a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown") page hosted in my [GitHub](https://github.com/helenwang1610/api/blob/master/README.md "Honglei Wang's RESTful Web API Design") public repository.  In this API, two entities are used. One is userS, the other is accountS.
+This RESTful Web API is about a website users and accounts management [referring to Django REST framework](https://www.django-rest-framework.org/ "Django REST framework"). It is documented on a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown") page hosted in my [GitHub](https://github.com/helenwang1610/api/blob/master/README.md "Honglei Wang's RESTful Web API Design") public repository.  In this API, two entities are used. One is users, the other is accounts.
 
 ------------
 
